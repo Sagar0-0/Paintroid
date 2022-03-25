@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">Pocket Paint</string>
     <string name="button_brush">Pincel</string>
     <string name="button_cursor">Cursor</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">Pipeta</string>
     <string name="button_undo">Deshacer</string>
     <string name="button_redo">Rehacer</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">Ancho</string>
     <string name="transform_height_text">Alto</string>
     <string name="transform_auto_crop_text">Auto</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">px</string>
     <string name="stamp_tool_copy_hint">Pulsación larga para copiar contenido</string>
     <string name="layers_title">Capas</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">Esta aplicación necesita el permiso solicitado para funcionar correctamente. Para guardar las imágenes en la memoria local, la app necesita acceso de lectura y escritura a la misma.</string>
     <string name="permission_info_permanent_denial_text">Esta aplicación necesita el permiso solicitado para funcionar correctamente. Para guardar las imágenes en la memoria local, la app necesita acceso de lectura y escritura a la misma.
         Como has denegado el permiso con no preguntar de nuevo, por favor, ve a los ajustes de tu teléfono y concede los permisos necesarios si deseas utilizar las funciones asociadas.</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">Arrastra los bordes a su nueva posición, luego pulsa para agrandar o recortar el área de imagen.</string>
     <string name="cursor_draw_inactive">Pan a la posición, después pulsa para empezar a pintar.</string>
     <string name="cursor_draw_active">Pan a dibujar, después pulsa y deja de dibujar.</string>

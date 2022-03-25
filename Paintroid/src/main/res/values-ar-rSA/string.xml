@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">بوكت بينت</string>
     <string name="button_brush">فرشاة</string>
     <string name="button_cursor">مؤشر</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">التقاط اللون</string>
     <string name="button_undo">التراجع عن</string>
     <string name="button_redo">الإعادة</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">العرض</string>
     <string name="transform_height_text">الارتفاع</string>
     <string name="transform_auto_crop_text">تلقائي</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">بكسل</string>
     <string name="stamp_tool_copy_hint">اضغط مطولاً لنسخ المحتوى</string>
     <string name="layers_title">الطبقات</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">هذا التطبيق يحتاج إلى الإذن المطلوب ليعمل بشكل صحيح. من أجل حفظ الصور في الذاكرة المحلية، يحتاج التطبيق إلى الوصول إلى القراءة والكتابة.</string>
     <string name="permission_info_permanent_denial_text">هذا التطبيق يحتاج إلى الإذن المطلوب ليعمل بشكل صحيح. من أجل حفظ الصور في الذاكرة المحلية، يحتاج التطبيق إلى الوصول إلى القراءة والكتابة.
         كما رفضت الإذن مع لا تطلب مرة أخرى، الرجاء الذهاب إلى إعدادات الهاتف الخاص بك ومنح الأذونات المطلوبة إذا كنت ترغب في استخدام الوظائف المرتبطة بها.</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">اسحب الحواف إلى المركز الجديد، ثم اضغط للتكبير أو اقتصاص صورة المنطقة.</string>
     <string name="cursor_draw_inactive">حرك ببطئ لتحديد الموضع, ثم انقر لبدء التلوين.</string>
     <string name="cursor_draw_active">حرك ببطئ للرسم, ثم انقر مجدداً لإيقاف التلوين.</string>

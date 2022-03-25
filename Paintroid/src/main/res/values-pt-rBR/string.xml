@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">Pocket Paint</string>
     <string name="button_brush">Pincel</string>
     <string name="button_cursor">Cursor</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">Pipeta</string>
     <string name="button_undo">Desfazer</string>
     <string name="button_redo">Refazer</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">Largura</string>
     <string name="transform_height_text">Altura</string>
     <string name="transform_auto_crop_text">Automático</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">px</string>
     <string name="stamp_tool_copy_hint">Pressione e segure para copiar o conteúdo</string>
     <string name="layers_title">Camadas</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">Este aplicativo precisa da permissão solicitada para funcionar corretamente. Para salvar imagens na memória local, o aplicativo precisa ter acesso de leitura e escrita a ele.</string>
     <string name="permission_info_permanent_denial_text">Este aplicativo precisa da permissão solicitada para funcionar corretamente. Para salvar imagens na memória local, o aplicativo precisa ter acesso de leitura e escrita a ele.
       Como você negou a permissão sem perguntar novamente, por favor, vá às configurações do seu celular e conceda as permissões necessárias se você deseja usar as funções associadas.</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">Arraste as bordas para a nova posição e, em seguida, toque para ampliar ou cortar a área da imagem.</string>
     <string name="cursor_draw_inactive">Mova lentamente para a posição e toque para começar a pintar.</string>
     <string name="cursor_draw_active">Mova lentamente para desenhar e, então, toque novamente para parar de pintar.</string>

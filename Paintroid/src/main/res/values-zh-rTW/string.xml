@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">Pocket Paint 口袋小畫家</string>
     <string name="button_brush">筆刷</string>
     <string name="button_cursor">游標</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">吸管</string>
     <string name="button_undo">復原</string>
     <string name="button_redo">重做</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">寬度</string>
     <string name="transform_height_text">高度</string>
     <string name="transform_auto_crop_text">汽車</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">像素</string>
     <string name="stamp_tool_copy_hint">長按即可複制內容</string>
     <string name="layers_title">層數</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">此應用需要所請求的權限才能正常運行。為了將圖像保存到本地內存，應用程序需要對其進行讀寫訪問。</string>
     <string name="permission_info_permanent_denial_text">此應用需要所請求的權限才能正常運行。為了將圖像保存到本地內存，應用程序需要對其進行讀寫訪問。
         由於您已拒絕的許可，請不要再詢問，因此，如果要使用關聯的功能，請進入手機設置並授予所需的許可權。</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">將邊緣拖動到新位置，點擊複選標記以放大或裁剪圖像區域。</string>
     <string name="cursor_draw_inactive">平移至位置，然後點按以開始繪畫。</string>
     <string name="cursor_draw_active">平移以繪畫，然後再次點擊以停止繪畫。</string>

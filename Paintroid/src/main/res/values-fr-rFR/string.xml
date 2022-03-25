@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">Pocket Paint</string>
     <string name="button_brush">Pinceau</string>
     <string name="button_cursor">Curseur</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">Pipette</string>
     <string name="button_undo">Défaire</string>
     <string name="button_redo">Rétablir</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">Largeur</string>
     <string name="transform_height_text">Hauteur</string>
     <string name="transform_auto_crop_text">Auto</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">px</string>
     <string name="stamp_tool_copy_hint">Tape copier pour copier le contenu</string>
     <string name="layers_title">Couches</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">Cette application a besoin de l\'autorisation requise pour fonctionner correctement. Afin d\'enregistrer des images dans la mémoire locale, l\'application a besoin d\'y accéder en lecture et en écriture.</string>
     <string name="permission_info_permanent_denial_text">Cette application a besoin de l\'autorisation requise pour fonctionner correctement. Afin d\'enregistrer des images dans la mémoire locale, l\'application a besoin d\'y accéder en lecture et en écriture.
         Comme tu as refusé l\'autorisation avec la fonction Ne pas demander à nouveau, va dans les options de ton téléphone et accorde les autorisations requises si tu souhaites utiliser les fonctions associées.</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">Fais glisser les bords vers leur nouvelle position, puis tape sur la coche pour agrandir ou recadrer la zone de l\'image.</string>
     <string name="cursor_draw_inactive">Glisse pour positionner, puis tape pour commencer à peindre.</string>
     <string name="cursor_draw_active">Glisse pour dessiner, puis tape à nouveau pour arrêter de peindre.</string>

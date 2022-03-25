@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">Pocket Paint</string>
     <string name="button_brush">Furçë</string>
     <string name="button_cursor">Kursori</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">Pipetë</string>
     <string name="button_undo">Zhbëj</string>
     <string name="button_redo">Ribëje</string>
@@ -35,11 +36,11 @@
     <string name="button_text">Tekst</string>
     <string name="button_shape">Format</string>
     <string name="button_hand">Duar</string>
-    <string name="button_watercolor">Watercolor</string>
+    <string name="button_watercolor">Akuarel </string>
     <string name="button_spray_can">Kanaçe me spërkatje</string>
     <string name="button_apply">Apliko</string>
     <string name="button_checkmark">Shenjë kontrolli</string>
-    <string name="button_plus">Connect Line Segment</string>
+    <string name="button_plus">Lidh segmentin e linjës </string>
     <string name="done">i përfunduar</string>
     <string name="gallery">Galeria</string>
     <string name="load_sticker_error">Pulla nuk mund të ngarkohej </string>
@@ -58,7 +59,7 @@
     <string name="help_title">Ndihmë</string>
     <string name="help_content_eraser">Hiqni pjesë të figurës me një gomë fshirëse.</string>
     <string name="help_content_brush">Prekni simbolet në pjesen e poshtëm për të ndryshuar ngjyrën ose madhësinë e furçës.</string>
-    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
+    <string name="help_content_watercolor">Ngjashëm me furçën me efektin e bojërave të ujit. Megjithatë, ju gjithashtu mund të ndryshoni forcën e furçës me rrëshqitësin në menunë e ngjyrave. </string>
     <string name="help_content_eyedropper">Prekni imazhin për të zgjedhur një ngjyrë.</string>
     <string name="help_content_undo">Trokit për të zhbërë veprimin tënd të mëparshëm. </string>
     <string name="help_content_redo">Prekni për të ribërë një veprim të pakthyer.</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">Gjerësia</string>
     <string name="transform_height_text">Lartësia</string>
     <string name="transform_auto_crop_text">Automatike</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">piksel</string>
     <string name="stamp_tool_copy_hint">Shtyp gjatë për të kopjuar përmbajtjen</string>
     <string name="layers_title">Shtresat</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">Ky aplikacion ka nevojë të kërkoj për lejen për funksionuar siç duhet. Për të ruajtur imazhet në kujtesën lokale, aplikacioni ka nevojë për drejtat e leximit dhe shkrimit në të. </string>
     <string name="permission_info_permanent_denial_text">Ky aplikacion ka nevojë të kërkoj për lejen për funksionuar siç duhet. Për të ruajtur imazhet në kujtesën lokale, aplikacioni ka nevojë për drejtat e leximit dhe shkrimit në të. 
 Meqenëse ju keni refuzuar lejen me \"Mos pyet përsëri\", ju lutemi shkoni te cilësimet e telefonit tuaj dhe jepni lejet e kërkuara nëse dëshironi të përdorni funksionet e lidhura me atë. </string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">Drag edges to their new position, then tap to enlarge or crop the image area.</string>
     <string name="cursor_draw_inactive">Lëvizeni në pozicion, më pas prekni për të filluar vizatiomin.</string>
     <string name="cursor_draw_active">Tërhiqeni për të vizatuar, pastaj shtypni përsëri për të ndaluar vizatimin.</string>

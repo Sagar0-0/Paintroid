@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">ポケットペイント（お絵かきソフト）</string>
     <string name="button_brush">ブラシ</string>
     <string name="button_cursor">カーソル</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">ピペット</string>
     <string name="button_undo">取り消す</string>
     <string name="button_redo">リドゥー</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">幅</string>
     <string name="transform_height_text">高さ</string>
     <string name="transform_auto_crop_text">自動</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">px</string>
     <string name="stamp_tool_copy_hint">長押ししてコンテンツをコピーします</string>
     <string name="layers_title">レイヤー</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">このアプリは正常に機能するために要求された権限が必要です。 ローカルメモリに画像を保存するには、アプリは読み取りと書き込みアクセスを必要とします。</string>
     <string name="permission_info_permanent_denial_text">このアプリは正常に機能するために要求された権限が必要です。 ローカルメモリに画像を保存するには、アプリは読み取りと書き込みアクセスを必要とします。
         もう一回聞かない、拒否されていますので、機能をご利用になる場合は、携帯電話の設定で必要な権限を付与してください。</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">エッジを新しい位置にドラッグして、その後タップすると、画像領域を拡大したりトリミングします。</string>
     <string name="cursor_draw_inactive">パンして配置します。その後タップするとペイントを開始します。</string>
     <string name="cursor_draw_active">パンして描画します。その後もう一度タップするとペイントを終了します。</string>

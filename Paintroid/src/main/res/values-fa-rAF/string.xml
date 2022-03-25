@@ -18,10 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pocketpaint_app_name">رنگ جیب Pocket Paint</string>
     <string name="button_brush">برس</string>
     <string name="button_cursor">مکان نما</string>
+    <string name="button_set_center">Set Center</string>
     <string name="button_pipette">پاپت</string>
     <string name="button_undo">خنثی کردن</string>
     <string name="button_redo">باز کرد</string>
@@ -131,6 +132,7 @@
     <string name="transform_width_text">عرض</string>
     <string name="transform_height_text">ارتفاع</string>
     <string name="transform_auto_crop_text">خودکار</string>
+    <string name="transform_set_center_text">Set center</string>
     <string name="pixel">پیکسل</string>
     <string name="stamp_tool_copy_hint">مطبوعات طولانی برای کپی محتوا</string>
     <string name="layers_title">لایه های</string>
@@ -155,6 +157,7 @@
     <string name="permission_info_external_storage_text">این برنامه نیاز به اجازه درخواست شده برای عملکرد به درستی دارد. به منظور ذخیره تصاویر به حافظه محلی، برنامه نیاز به خواندن و نوشتن دسترسی به آن دارد.</string>
     <string name="permission_info_permanent_denial_text">این برنامه نیاز به اجازه درخواست شده برای عملکرد به درستی دارد. به منظور ذخیره تصاویر به حافظه محلی، برنامه نیاز به خواندن و نوشتن دسترسی به آن دارد.
         همانطور که مجوز را رد کردید، دوباره درخواست نکنید، لطفا به تنظیمات تلفن خود بروید و اگر بخواهید از توابع مرتبط استفاده کنید، مجوزهای مورد نیاز را دریافت کنید.</string>
+    <string name="set_center_info_text">Drag the cursor to the new center position.</string>
     <string name="transform_info_text">Drag edges to their new position, then tap to enlarge or crop the image area.</string>
     <string name="cursor_draw_inactive">پان به موقعیت، سپس برای شروع نقاشی ضربه بزنید.</string>
     <string name="cursor_draw_active">پان به قرعه کشی، سپس برای متوقف کردن نقاشی ضربه بزنید.</string>
